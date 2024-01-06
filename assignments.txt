@@ -1,0 +1,133 @@
+
+
+
+
+#combo rockers
+set_location_assignment PIN_AD21 -to rock1
+set_location_assignment PIN_AC21 -to rock2
+set_location_assignment PIN_AB21 -to rock3
+set_location_assignment PIN_AB22 -to rock4
+
+#FSM
+set_location_assignment PIN_AD19 -to FSM
+
+#clock
+set_location_assignment PIN_AC19 -to clock
+
+#Entry 1
+set_location_assignment PIN_Y23 -to e11
+set_location_assignment PIN_Y24 -to e12
+set_location_assignment PIN_AA22 -to e13
+set_location_assignment PIN_AA23 -to e14
+
+#7 seg 0
+set_location_assignment PIN_G18 -to 1a
+set_location_assignment PIN_F22 -to 1b
+set_location_assignment PIN_E17 -to 1c
+set_location_assignment PIN_L26 -to 1d
+set_location_assignment PIN_L25 -to 1e
+set_location_assignment PIN_J22 -to 1f
+set_location_assignment PIN_H22 -to 1g
+
+
+
+
+#no daughter
+#combo rockers
+set_location_assignment PIN_AD27 -to rock1
+set_location_assignment PIN_AC27 -to rock2
+set_location_assignment PIN_AC28 -to rock3
+set_location_assignment PIN_AB28 -to rock4
+
+#FSM
+set_location_assignment PIN_M23 -to FSM
+#clock
+set_location_assignment PIN_M21 -to clock
+
+
+
+#Entry 4
+set_location_assignment PIN_Y23 -to e31
+set_location_assignment PIN_Y24 -to e32
+set_location_assignment PIN_AA22 -to e33
+set_location_assignment PIN_AA23 -to e34
+
+#Entry 3
+set_location_assignment PIN_AB24 -to e31
+set_location_assignment PIN_AC24 -to e32
+set_location_assignment PIN_AB25 -to e33
+set_location_assignment PIN_AC25 -to e34
+
+#Entry 2
+set_location_assignment PIN_AB26 -to e21
+set_location_assignment PIN_AD26 -to e22
+set_location_assignment PIN_AC26 -to e23
+set_location_assignment PIN_AB27 -to e24
+
+#Entry 1
+set_location_assignment PIN_AD27 -to e11
+set_location_assignment PIN_AC27 -to e12
+set_location_assignment PIN_AC28 -to e13
+set_location_assignment PIN_AB28 -to e14
+
+
+
+
+#7 seg 3
+set_location_assignment PIN_V21 -to 1a
+set_location_assignment PIN_U21 -to 1b
+set_location_assignment PIN_AB20 -to 1c
+set_location_assignment PIN_AA21 -to 1d
+set_location_assignment PIN_AD24 -to 1e
+set_location_assignment PIN_AF23 -to 1f
+set_location_assignment PIN_Y19 -to 1g
+
+#7 seg 2
+set_location_assignment PIN_AA25 -to 2a
+set_location_assignment PIN_AA26 -to 2b
+set_location_assignment PIN_Y25 -to 2c
+set_location_assignment PIN_W26 -to 2d
+set_location_assignment PIN_Y26 -to 2e
+set_location_assignment PIN_W27 -to 2f
+set_location_assignment PIN_W28 -to 2g
+
+#7 seg 1
+set_location_assignment PIN_M24 -to 3a
+set_location_assignment PIN_Y22 -to 3b
+set_location_assignment PIN_W21 -to 3c
+set_location_assignment PIN_W22 -to 3d
+set_location_assignment PIN_W25 -to 3e
+set_location_assignment PIN_U23 -to 3f
+set_location_assignment PIN_U24 -to 3g
+
+#7 seg 0
+set_location_assignment PIN_G18 -to 4a
+set_location_assignment PIN_F22 -to 4b
+set_location_assignment PIN_E17 -to 4c
+set_location_assignment PIN_L26 -to 4d
+set_location_assignment PIN_L25 -to 4e
+set_location_assignment PIN_J22 -to 4f
+set_location_assignment PIN_H22 -to 4g
+
+
+
+
+
+#7 seg 6
+set_location_assignment PIN_AA17 -to 1a2
+set_location_assignment PIN_AB16 -to 1b2
+set_location_assignment PIN_AA16 -to 1c2
+set_location_assignment PIN_AB17 -to 1d2
+set_location_assignment PIN_AB15 -to 1e2
+set_location_assignment PIN_AA15 -to 1f2
+set_location_assignment PIN_AC17 -to 1g2
+
+#7 seg 7
+set_location_assignment PIN_AD17 -to 1a1
+set_location_assignment PIN_AE17 -to 1b1
+set_location_assignment PIN_AG17 -to 1c1
+set_location_assignment PIN_AH17 -to 1d1
+set_location_assignment PIN_AF17 -to 1e1
+set_location_assignment PIN_AG18 -to 1f1
+set_location_assignment PIN_AA14 -to 1g1
+
